@@ -2,9 +2,9 @@
 
 ## Overview（概要）
 
-点群データ(PCD/PLY)を用いて、IFAの圧力印加時の収縮量($L, w$)および体積変化を計測するコード
+点群データ(PCD/PLY)を用いて、IFAの圧力印加時の収縮量($L$, $w$)および体積変化を計測するコード
 
-This repository contains code to measure shrinkage amounts ($L, w$) and volume changes of IFA (Inflatable Actuator) during pressure application using point cloud data (PCD/PLY format).
+This repository contains code to measure shrinkage amounts ($L$, $w$) and volume changes of IFA (Inflatable Actuator) during pressure application using point cloud data (PCD/PLY format).
 
 ## Requirements（必要なライブラリ）
 
